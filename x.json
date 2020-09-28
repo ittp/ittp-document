@@ -1,0 +1,414 @@
+{
+	"7424,25,40,43,44,52,56,58,,, ll": [
+		[],
+		[
+			null,
+			"АО \"НЕВА-МЕТАЛЛ\"",
+			null,
+			null,
+			null,
+			null,
+			"ПОРУЧЕНИЕ / SHIPPING ORDER No.  131/4384"
+		],
+		[
+			null,
+			"198035, Санкт-Петербург, Химический переулок, д.4"
+		],
+		[
+			null,
+			"ИНН/КПП 7805061619 / 783601001",
+			null,
+			null,
+			null,
+			null,
+			44098
+		],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[
+			null,
+			"SHIPPER"
+		],
+		[
+			null,
+			"Грузоотправитель"
+		],
+		[
+			null,
+			"JSC \"SEVERSTAL\", RUSSIA"
+		],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[
+			null,
+			"CONSIGNEE",
+			null,
+			null,
+			null,
+			null,
+			"NOTIFY"
+		],
+		[
+			null,
+			"Грузополучатель",
+			null,
+			null,
+			null,
+			null,
+			"Извещать по адресу"
+		],
+		[
+			null,
+			"SIA SEVERSTAL DISTRIBUTION",
+			null,
+			null,
+			null,
+			null,
+			"SIA SEVERSTAL DISTRIBUTION"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"PH.: (+371)67076600, FAX: (+371)67076602"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"SEVERSTAL DISTRIBUTION SP. Z O.O."
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"PH.: (+48) 32 364 24 56 , FAX: (+48) 32 364 24 07"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"TSL SILESIA SP. Z O.O. ODDZIAŁ W GDYNI"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"INDYJSKA 13, 81-336 GDYNIA"
+		],
+		[],
+		[],
+		[],
+		[],
+		[
+			null,
+			"SIGNATURE AND STAMP OF MASTER/CHIEF MATE",
+			null,
+			null,
+			null,
+			"Судно / VESSEL"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"AGATE",
+			null,
+			null,
+			null,
+			"QUANTITY"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"Мест"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"Груз / CARGO"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"СТАЛЬ Г/К ТРАВЛЕННЫЕ РУЛОНЫ",
+			null,
+			null,
+			null,
+			"WEIGHT"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"СТАЛЬ Х/К РУЛОНЫ, ОЦИНКОВАННЫЕ",
+			null,
+			null,
+			null,
+			"Весом"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			"СТАЛЬ Г/К РУЛОНЫ"
+		],
+		[],
+		[],
+		[
+			null,
+			"Судно / VESSEL"
+		],
+		[
+			null,
+			"AGATE"
+		],
+		[],
+		[
+			null,
+			"PORT OF LOADING / Порт погрузки",
+			null,
+			null,
+			null,
+			null,
+			"PORT OF DISCHARGE / Порт выгрузки"
+		],
+		[
+			null,
+			"ST.PETERSBURG, RUSSIA",
+			null,
+			null,
+			null,
+			null,
+			"GDYNIA, POLAND"
+		],
+		[],
+		[],
+		[
+			null,
+			"Маркировка",
+			"Наименование груза,род упаковки",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"Примечание"
+		],
+		[
+			null,
+			"SPECIFICATION",
+			"GOODS, PACKAGING",
+			null,
+			null,
+			null,
+			null,
+			null,
+			"APPENDIX"
+		],
+		[
+			null,
+			"CONTRACT"
+		],
+		[
+			null,
+			"428/1000",
+			"HOT ROLLED STEEL COILS, PICKLED"
+		],
+		[
+			null,
+			"000016-7424",
+			"COLD ROLLED STEEL COILS, GALVANIZED"
+		],
+		[
+			null,
+			"7425, 7440, 7443, 7444, ",
+			"HOT ROLLED STEEL COILS"
+		],
+
+		[
+			null,
+			"7452, 7456, 7458, 7464, "
+		],
+		[
+			null,
+			"7467, 7474, 7476, 7477, "
+		],
+		[
+			null,
+			"7478, 7479, 7480, 7484, "
+		],
+		[
+			null,
+			"7486, 7487"
+		],
+		[],
+		[
+			null,
+			null,
+			null,
+			"",
+			"NUMBER OF PACKAGES",
+			"TOTAL NET WEIGHT IN KGS",
+			"TOTAL GROSS WEIGHT IN KGS"
+		],
+		[
+			null,
+			null,
+			"ИТОГО:",
+			"",
+			154,
+			2801150,
+			2806680
+		],
+		[],
+		[
+			null,
+			"Фрахт и расходы / FREIGHT",
+			"Наименование груза, число мест / COMMODITY",
+			null,
+			null,
+			null,
+			"Масса",
+			"Скл.",
+			"         № п/а"
+		],
+		[],
+		[
+			null,
+			null,
+			"СТАЛЬ Г/К ТРАВЛЕННЫЕ РУЛОНЫ",
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"  "
+		],
+		[
+			null,
+			null,
+			"СТАЛЬ Х/К РУЛОНЫ, ОЦИНКОВАННЫЕ"
+		],
+		[
+			null,
+			null,
+			"СТАЛЬ Г/К РУЛОНЫ"
+		],
+		[],
+		[],
+		[],
+		[
+			null,
+			"Дополнительные указания",
+			"Плат. СЕВЕРСТАЛЬ, Дог. ТР0050"
+		],
+		[],
+		[
+			null,
+			"Юридический адрес, ИНН отправителя по ГТД (ДКД):"
+		],
+		[
+			null,
+			"ПАО \"СЕВЕРСТАЛЬ\"   162600, г.Череповец Вологодской области, ул. Мира, 30"
+		],
+		[
+			null,
+			"ИНН 3528000597 / 997550001"
+		],
+		[
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			"  "
+		],
+		[
+			null,
+			"Документы направить",
+			"BILL OF LADING",
+			null,
+			null,
+			"Спец.",
+			"Расп.кап",
+			"Разрешение Балтийской таможни"
+		],
+		[
+			null,
+			"Грузоотправителю"
+		],
+		[],
+		[],
+		[
+			null,
+			"Васнева И.А."
+		],
+		[
+			null,
+			"менеджер СВЛ"
+		],
+		[],
+		[
+			null,
+			"т.: +7 (812) 655-01-95"
+		],
+		[
+			null,
+			"ф.: +7 (812) 600-47-10"
+		],
+		[
+			null,
+			"shipments@severstalgroup.com"
+		],
+		[],
+		[],
+		[],
+		[]
+	]
+}
